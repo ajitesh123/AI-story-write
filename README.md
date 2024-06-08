@@ -8,6 +8,8 @@ It is an interactive storytelling application that helps users create engaging s
 - **Engaging story elements:** The AI assistant generates interesting paragraph headings, plot twists, and even image descriptions to enhance the story.
 - **User-friendly interface:** The app features a clean and intuitive sidebar for user input and a main area to display the story.
 
+### Understand this code using: https://getarchieai.com/snippet/Ec5NYU
+
 ## Installation
 
 1. **Clone the repository:**
